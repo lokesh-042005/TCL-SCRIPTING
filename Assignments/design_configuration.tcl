@@ -1,5 +1,5 @@
-set design_name "counter"
-set technology "sky130"
+set design_name counter
+set technology sky130
 set clock_period 10
 set clock_frequency 100
 set core_utilization 65
